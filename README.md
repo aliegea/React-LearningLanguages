@@ -1,7 +1,7 @@
-PROJECT NAME AND PITCH
+REAST LANGUAGE-LEARNING EXCERCISE
 
 React App.
-Implementation the mockup provided
+
 App Fuctionalities:
 a. A user clicks on one word at a time
 b. As a user clicks on each word button, that word appears in order in the larger text
@@ -32,3 +32,6 @@ npm start
 To Visit App:
 
 localhost:3000/
+
+##You can check the result at
+https://aliegea.github.io/React-LearningLanguages/
