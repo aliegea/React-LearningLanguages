@@ -160,7 +160,7 @@ body {
 }
 
 /* custom styles for mobile devices */
-@media screen and (max-width: 1600px) {
+@media screen and (max-width: 1024px) {
   .heart {
     width: 30px;
     height: 30px;
