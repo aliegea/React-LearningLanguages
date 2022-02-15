@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/React-LearningLanguages/static/css/main.a3a316ca.css",
-    "main.js": "/React-LearningLanguages/static/js/main.b54d5b2f.js",
+    "main.css": "/React-LearningLanguages/static/css/main.9e2ddadb.css",
+    "main.js": "/React-LearningLanguages/static/js/main.6e9bfd9f.js",
     "static/js/787.edb18302.chunk.js": "/React-LearningLanguages/static/js/787.edb18302.chunk.js",
     "static/media/DesktopBg.png": "/React-LearningLanguages/static/media/DesktopBg.694214faa97678a27456.png",
     "static/media/logo.png": "/React-LearningLanguages/static/media/logo.239bf3b3fecabb5f605b.png",
@@ -11,12 +11,12 @@
     "static/media/stars.png": "/React-LearningLanguages/static/media/stars.f6d7b9902505bd2878cc.png",
     "static/media/Icono3.png": "/React-LearningLanguages/static/media/Icono3.2b560f5af37cf42a59aa.png",
     "index.html": "/React-LearningLanguages/index.html",
-    "main.a3a316ca.css.map": "/React-LearningLanguages/static/css/main.a3a316ca.css.map",
-    "main.b54d5b2f.js.map": "/React-LearningLanguages/static/js/main.b54d5b2f.js.map",
+    "main.9e2ddadb.css.map": "/React-LearningLanguages/static/css/main.9e2ddadb.css.map",
+    "main.6e9bfd9f.js.map": "/React-LearningLanguages/static/js/main.6e9bfd9f.js.map",
     "787.edb18302.chunk.js.map": "/React-LearningLanguages/static/js/787.edb18302.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a3a316ca.css",
-    "static/js/main.b54d5b2f.js"
+    "static/css/main.9e2ddadb.css",
+    "static/js/main.6e9bfd9f.js"
   ]
 }
